@@ -1,7 +1,18 @@
-first_number = input('Enter first number: \n \n ')
-second_number = input('Enter second number: \n \n ')
-operation = input('Wich one do you want? \n1 - Sum\n 2 - Sub\n 3 - Multp\n 4 - Div')
+first_number = int(input('Enter first number: \n'))
+second_number = int(input('Enter second number: \n'))
+operation = input('Wich one do you want? \n1 - Sum\n2 - Sub\n3 - Multp\n4 - Div\n')
 
+def sum(num1, num2):
+    return num1 + num2
+
+def sub(num1, num2):
+    return num1 - num2
+
+def multp(num1, num2):
+    return num1 * num2
+
+def div(num1, num2):
+    return num1 / num2
 
 
 
