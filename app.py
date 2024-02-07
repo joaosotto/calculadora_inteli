@@ -27,4 +27,4 @@ elif operation == '4':
     print(div(first_number, second_number))
 
 else: 
-    print('Sorry, did not uderstand you.')
+    print('Sorry, did not uderstand you. Shutting down...')
