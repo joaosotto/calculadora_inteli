@@ -4,7 +4,7 @@ Ponderada semana 1
 
 Aplicação: Calculadora simples. Recebe dois números inteiros e uma operação (soma, subtração, multiplicação, divisão ou potenciação). Retorna um número como resultado no terminal. Caso seja uma operação inválida, retorna uma mensagem de erro no terminal.
 
-Commits (ordem cronoólica):
+Commits (ordem cronológica):
 
 1. feat: ask for two numbers and a operation - Adicionar três inputs a fim de receber do usuário o primeiro número, o segundo número e a operação desejada;
 2. feat: add functions 'sum', 'sub', 'multp', 'div' - Adicionar as funções de somar, subtrair, multiplicar e dividir;
